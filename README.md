@@ -9,3 +9,6 @@ cd calendar
 npm install
 # Run the app
 npm start</code></pre>
+
+
+Za OS Windows lahko namestite program z datoteko "Calendar Setup 1.0.0".

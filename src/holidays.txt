@@ -1,0 +1,5 @@
+static,01-01
+static,02-01
+static,25-06
+dynamic,17-04-2022
+dynamic,25-02-2020
